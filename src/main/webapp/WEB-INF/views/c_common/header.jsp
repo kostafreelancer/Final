@@ -12,9 +12,9 @@
 <script type="text/javascript"
 	src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
 <script type="text/javascript"
-	src="/Matching_Project/c_common/c_common_js/header.js"></script>
+	src="/resources/c_common_js/header.js"></script>
 <script type="text/javascript"
-	src="/Matching_Project/c_common/c_common_js/header_second.js"></script>
+	src="/resources/c_common_js/header_second.js"></script>
 
 </head>
 <body>
