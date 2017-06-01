@@ -10,7 +10,7 @@ public class LoginController {
 	
 	@RequestMapping(value = "login", method= RequestMethod.GET)
 	public void login(){
-		
+		System.out.println("으아아ㅏ");
 	}
 	
 }
