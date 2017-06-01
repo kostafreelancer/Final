@@ -1,4 +1,4 @@
-package lancer.total.domain;
+package lancer.f_mypage.domain;
 
 import java.io.Serializable;
 import java.sql.Timestamp;

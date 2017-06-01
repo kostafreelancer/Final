@@ -1,4 +1,4 @@
-package lancer.f_mypage.service;
+package lancer.total.service;
 
 public class kwangsikservice {
 

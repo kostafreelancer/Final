@@ -1,4 +1,4 @@
-package lancer.f_mypage.controller;
+package lancer.total.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
