@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 <link rel="stylesheet"
-	href="/Matching_Project/c_common/c_common_css/header.css"
+	href="/resources/c_common_css/header.css"
 	type="text/css" media="screen" />
 <script type="text/javascript"
 	src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
